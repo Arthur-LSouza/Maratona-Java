@@ -1,6 +1,6 @@
 package academy.devdojo.maratona.java.introducao;
 
-public class Aula06EstruturaCondicional {
+public class Aula05EstruturaCondicionalpt06 {
     public static void main(String[] args) {
         //imprimir o dia da semana, sendo 1 = domingo etc...
         //char, byte, int, short, enum, String.
